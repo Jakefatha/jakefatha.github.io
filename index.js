@@ -1,6 +1,6 @@
 var Typer = {
     text: '',
-    accessCountimer: null,
+    accessCountimer: ,
     index: 0,
     speed: 2,
     file: '',
