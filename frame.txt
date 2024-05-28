@@ -1,0 +1,18 @@
+<span id="d">cyb3r@53cur!ty</span>:<span id="e">~</span><span id="f">[/Javis/Wahome]</span><span id="a">cd </span>Framework<br>
+<span id="d">cyb3r@53cur!ty</span>:<span id="e">~</span><span id="f">[/Javis/Wahome/Framework]</span><span id="a">ls</span><br>
+        framework.txt</p>
+<span id="d">cyb3r@53cur!ty</span>:<span id="e">~</span><span id="f">[/Javis/Wahome/Framework]</span><span id="a">cat</span> framework.txt<br>
+        
+        Hi, I'm "<span id="k">Javis Wahome</span>, Cyber security engineer.<br>
+
+        It all started back at High School, where I was first introduced to a computer class. I got curious on knowing how a computer works from its own passpective.
+
+        I joined college and persuaded a career in computer engineering. In it, I learn't how to do computer repair and maintaince, customer care servies, website design and networking, but curiousity of breaking into systems, checking for vulnerabilities and coming up with solutions, landed me to cyber security.
+
+        This was the field that I wanted all of my time. Since then I have been enjoying helping organisations in matters concerning security and data protection.</p>
+
+
+<span id="d">cyb3r@53cur!ty</span>:<span id="e">~</span><span id="f">[/Javis/Wahome/Framework]</span><span id="a">ls</span><br>
+        Contact.txt<br><a href="index.html">Home</a><br></p>
+<span id="d">cyb3r@53cur!ty</span>:<span id="e">~</span><span id="f">[/Javis/Wahome/Framework]</span><span id="a">grep </span>. Contact.txt<br>
+        <a href="https://www.linkedin.com/in/javis-w-00363923a/">Linkedin</a> <br> <a href="https://twitter.com/jakefatha">Twitter</a> <br> <a href="https://medium.com/@1nc0gnito">Medium</a> <br> <a href="https://github.com/Jakefatha">Github</a><br><a href="mailto: javiswahome7@gmail.com">Email</a><br><a href="Tel:+254111725036">phone</a>

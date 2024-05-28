@@ -1,0 +1,35 @@
+<span id="a">Javis@Wahome</span>:
+      <span id="b">~</span>
+      <span id="c">$</span> 
+        <span id="a">ls</span><br>
+        Portfolio.txt<br></p>
+      <span id="a">Javis@Wahome</span>:
+      <span id="b">~</span>
+      <span id="c">$</span>
+        <span id="a">cat </span>portfolio.txt<br> 
+        Hi, I'm "<span id="k">Javis Wahome</span>, Cyber security engineer.<br>
+
+        An experienced person in the field of IT. Cyber security being the root of the other programs like Website design, computer repair, computer maintainance, networking and robotics.<br>
+
+        With an eagle sight to details and commitment to deliver results, I am a valuable asset to any organisation in need of cyber security needs.<br>
+
+        I am also a mentor, and in this I get to learn what challenges people go through and I try as much as possible to solve them. Overall, I am a talented and dedicated professional who brings a wealth of knowledge and skills to the table.<br></p>
+
+        To run root previledge, type sudo su
+
+      <span id="a">Javis@Wahome</span>:
+      <span id="b">~</span>
+      <span id="c">$</span> 
+        Sudo <span id="c">su</span><br>
+        [Sudo] password for Javis:_<br></p>
+      <span id="d">cyb3r@53cur!ty</span>:
+      <span id="e">~</span>
+      <span id="f">[/Javis/Wahome]</span> 
+        <span id="a">ls</span><br>
+        Contact.txt<br><a href="framework.html">Framework</a><br><a href="activity.html">Activity</a><br></p>
+      <span id="d">cyb3r@53cur!ty</span>:
+      <span id="e">~</span>
+      <span id="f">[/Javis/Wahome]</span> 
+        <span id="a">grep </span>. Contact.txt<br>
+        <a href="https://www.linkedin.com/in/javis-w-00363923a/">Linkedin</a> <br> <a href="https://twitter.com/jakefatha">Twitter</a> <br> <a href="https://medium.com/@1nc0gnito">Medium</a> <br> <a href="https://github.com/Jakefatha">Github</a><br><a href="mailto: javiswahome7@gmail.com">Email</a><br><a href="Tel:+254111725036">phone</a>
+
