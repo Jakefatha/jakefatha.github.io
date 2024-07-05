@@ -3,9 +3,9 @@
         activity.txt</p>
 <span id="d">cyb3r@53cur!ty</span>:<span id="e">~</span><span id="f">[/Javis/Wahome/Activity]</span><span id="a">cat</span> activity.txt<br>
         
-        Hi, I'm "<span id="k">Javis Wahome</span>, Cyber security engineer.<br>
+        Hello, I'm "<span id="k">Javis Wahome</span>, Cyber security engineer.<br>
 
-        As a cyber security person, I like helping people on ways that they can be secured when it comes to internet and data sharing. I do this by; teaching the staff and students, organisation and industrial workers, since they are the first and easy to be reversed engineered and give sensitive information to attackers.
+        As a cyber security personnel, I like helping individuals on ways they can be secured when it comes to internet and data sharing. I do this through; teaching the staff and students, organisation and industrial workers, since they are the first to be approached and easy to be reversed engineered and give sensitive information to attackers.
 
         Anything that is being posted online, is automatically saved permanently. This gives a hacker an easy way to gather information about someone.Remember "The internet does not forget neither does it forgive".
 
